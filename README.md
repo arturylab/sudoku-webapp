@@ -4,7 +4,7 @@ Una moderna aplicación web de Sudoku con diseño tipo videojuego, completamente
 
 ## 🌐 Live Demo
 
-**[🚀 Juega ahora - Live View](https://arturylab.github.io/sudoku-webapp/)**
+<a href="https://arturylab.github.io/sudoku-webapp/" target="_blank"><strong>🚀 Juega ahora - Live View</strong></a>
 
 ## ✨ Características
 
