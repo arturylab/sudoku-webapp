@@ -2,6 +2,10 @@
 
 Una moderna aplicación web de Sudoku con diseño tipo videojuego, completamente responsive y con una experiencia visual atractiva.
 
+## 🌐 Live Demo
+
+**[🚀 Juega ahora - Live View](https://arturylab.github.io/sudoku-webapp/)**
+
 ## ✨ Características
 
 - **6 pantallas completas**: Inicio, selección de modo, juego, game over, puntajes y créditos
